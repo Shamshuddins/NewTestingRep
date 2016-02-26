@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>MulCommits2</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>MulCommits2</value>
+    </caseValues>
+    <fields>
+        <label><!-- Field2 --></label>
+        <name>Field2__c</name>
+    </fields>
+    <fields>
+        <help><!-- Na3 sai --></help>
+        <label><!-- Field3 --></label>
+        <name>Field3__c</name>
+    </fields>
+    <fields>
+        <label><!-- MulCommits2Field --></label>
+        <name>MulCommits2Field__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Test --></errorMessage>
+        <name>MulTestRule</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Error --></errorMessage>
+        <name>Rule2</name>
+    </validationRules>
+</CustomObjectTranslation>

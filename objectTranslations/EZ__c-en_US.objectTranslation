@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>EZ</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>EZ</value>
+    </caseValues>
+    <fields>
+        <label><!-- EZ2 --></label>
+        <name>EZ2__c</name>
+    </fields>
+    <fields>
+        <label><!-- EZ --></label>
+        <name>EZ__c</name>
+    </fields>
+    <fields>
+        <label><!-- Enhance2 --></label>
+        <name>Enhance2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Enhance --></label>
+        <name>Enhance__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

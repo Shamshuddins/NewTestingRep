@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>MulCommits</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>MulCommits</value>
+    </caseValues>
+    <fields>
+        <label><!-- MulCommitField2 --></label>
+        <name>MulCommitField2__c</name>
+    </fields>
+    <fields>
+        <label><!-- MulCommitsField --></label>
+        <name>MulCommitsField__c</name>
+    </fields>
+    <fields>
+        <label><!-- MulCustomField3 --></label>
+        <name>MulCustomField3__c</name>
+    </fields>
+    <recordTypes>
+        <label><!-- MulRecordType --></label>
+        <name>MulRecordType</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Recordtype2 --></label>
+        <name>Recordtype2</name>
+    </recordTypes>
+    <sharingReasons>
+        <label><!-- SR1 --></label>
+        <name>SR1</name>
+    </sharingReasons>
+    <sharingReasons>
+        <label><!-- SR2 --></label>
+        <name>SR23</name>
+    </sharingReasons>
+    <sharingReasons>
+        <label><!-- SR3 --></label>
+        <name>SR3</name>
+    </sharingReasons>
+    <sharingReasons>
+        <label><!-- SR4 --></label>
+        <name>SR4</name>
+    </sharingReasons>
+    <sharingReasons>
+        <label><!-- SR5 --></label>
+        <name>SR5</name>
+    </sharingReasons>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- MC5 --></label>
+        <name>MC5</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- MCLink --></label>
+        <name>MCLink</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- MCLink2 --></label>
+        <name>MCLink2</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- MCLink3 --></label>
+        <name>MCLink3</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- MCLink4 --></label>
+        <name>MCLink4</name>
+    </webLinks>
+</CustomObjectTranslation>
