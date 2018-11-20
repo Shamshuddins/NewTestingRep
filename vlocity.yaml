@@ -1,0 +1,16 @@
+projectPath: ./autorabit_alldefault_vlocity_build
+expansionPath: .
+buildFile: AllDataPacks.json
+queries: 
+  - VlocityDataPackType: DataRaptor
+    query: Select Id, Name from %vlocity_namespace%__DRBundle__c WHERE Id in ('a261k000000N5L7AAK')
+delete: true
+activate: true
+compileOnBuild: true
+maxDepth: -1
+continueAfterError: true
+defaultMaxParallel: 10
+exportPacksMaxSize: 10
+useAllRelationships: false
+supportHeadersOnly: true
+supportForceDeploy: true
