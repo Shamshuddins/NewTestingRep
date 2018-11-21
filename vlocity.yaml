@@ -8,6 +8,8 @@ queries:
     query: Select Id, Name from %vlocity_namespace%__DRBundle__c WHERE Id in ('a261k000000N5L7AAK')
   - VlocityDataPackType: DataRaptor
     query: Select Id, Name from %vlocity_namespace%__DRBundle__c WHERE Id in ('a261k000000N5L7AAK')
+  - VlocityDataPackType: DataRaptor
+    query: Select Id, Name from %vlocity_namespace%__DRBundle__c WHERE Id in ('a261k000000N5L8AAK')
 delete: true
 activate: true
 compileOnBuild: true
