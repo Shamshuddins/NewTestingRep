@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AutomationSuite">
+  <test name="PSToolSomkeTestSuite">
+    <classes>
+      <class name="main.java.module.PSTool">
+        <methods>
+          <include name="openURL">
+            <parameter name="DataRowID" value="test"/>
+          </include>
+          <include name="psLogin">
+            <parameter name="DataRowID" value="Marketer"/>
+          </include>
+          <include name="psHomePageValidation">
+            <parameter name="DataRowID" value="test"/>
+          </include>
+          <include name="psCreateProjectStatementPage1">
+            <parameter name="DataRowID" value="test"/>
+          </include>
+          <include name="psCreateProjectStatementPage2">
+            <parameter name="DataRowID" value="Random"/>
+          </include>
+          <include name="psCreateProjectStatementPage3">
+            <parameter name="DataRowID" value="Continue"/>
+          </include>
+          <include name="psValidateProjectStatementWithOverView">
+            <parameter name="DataRowID" value="test"/>
+          </include>
+          <include name="psDeliverables">
+            <parameter name="DataRowID" value="test"/>
+          </include>
+          <include name="psAddDeliverables">
+            <parameter name="DataRowID" value="test"/>
+          </include>
+          <include name="psValidateAddedDeliverables">
+            <parameter name="DataRowID" value="test"/>
+          </include>
+          <include name="psAddRateCard">
+            <parameter name="DataRowID" value="test"/>
+          </include>
+          <include name="psStaffing">
+            <parameter name="DataRowID" value="SelectAll"/>
+          </include>
+          <include name="psExpenses">
+            <parameter name="DataRowID" value="test"/>
+          </include>
+          <include name="psReview">
+            <parameter name="DataRowID" value="Cancel"/>
+          </include>
+          <include name="psLogout">
+            <parameter name="DataRowID" value="test"/>
+          </include>
+        </methods>
+      </class>
+    </classes>
+  </test>
+  <test name="PSToolSomkeTestSuite_1">
+    <classes>
+      <class name="main.java.module.PSTool">
+        <methods>
+          <include name="openURL">
+            <parameter name="DataRowID" value="test"/>
+          </include>
+          <include name="psLogin">
+            <parameter name="DataRowID" value="Marketer"/>
+          </include>
+          <include name="psHomePageValidation">
+            <parameter name="DataRowID" value="test"/>
+          </include>
+          <include name="psCreatePitchAgreementPage1">
+            <parameter name="DataRowID" value="test"/>
+          </include>
+          <include name="psLogout">
+            <parameter name="DataRowID" value="test"/>
+          </include>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

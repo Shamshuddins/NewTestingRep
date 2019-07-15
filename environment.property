@@ -1,0 +1,21 @@
+##-------------Application Config----------------
+AppList = PSTool
+##-------------QA details-------------
+QA_URL = https://mapsit-tcccmktg.cs62.force.com/marketingprojectstatements/s/
+QA_Marketer_username = supadhimarketer@coca-cola.com.mapsit
+QA_Marketer_password = Password123!
+QA_Agency_username = supadhiagency@coca-cola.com.mapsit
+QA_Agency_password = Password123!
+QA_PE_URL = https://mapsit-tcccmktg.cs62.force.com/productionestimates/s/
+QA_PE_Marketer_username = supadhimarketer@coca-cola.com.mapsit
+QA_PE_Marketer_password = Password123!
+
+---------UAT--------------
+UAT_URL = https://mapuat-tcccmktg.cs23.force.com/marketingprojectstatements/s/login
+UAT_Marketer_username = sujatawebumarketer@coca-cola.com.mapuat
+UAT_Marketer_password = Password123!
+UAT_Agency_username = sujatawebuagencyuser@coca-cola.com.mapuat
+UAT_Agency_password = Password123!
+UAT_PE_URL = https://mapsit-tcccmktg.cs23.force.com/productionestimates
+UAT_PE_Marketer_username = supadhimarketer@coca-cola.com.mapsit
+UAT_PE_Marketer_password = Password@123456

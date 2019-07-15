@@ -1,0 +1,7 @@
+componentName,DataRowID,URL,userName,passWord,navigateToCH_Home,loginAs,searchValue,data,userData,appData
+peLogin,Agency,,sujatawebumarketer@coca-cola.com,password123,,,,Agency,,
+peHomePageValidation,test,,,,,,,HOME|PRODUCTIONS|CALENDAR|FORUM|VENDOR PROFILES,"Hi, Marketer Sujata",My Productions|All Productions|Completed Productions
+peCreateNewProductionPage1,test,,,,,,NewPS,Global Test Agency,Sujata Agency|False|Moving Images|Coca-Cola|2020,
+peCreateNewProductionPage2,CompleteLater,,,,,,,CompleteLater,,
+peCreateNewProductionPage2,Save,,,,,,,Save,,
+peProductionBidPage,test,,,,,,,,,

@@ -1,0 +1,10 @@
+componentName,dataRowID,YN
+openURL,test,Y
+peLogin,Marketer,Y
+peHomePageValidation,test,Y
+peCreateNewProductionPage1,test,Y
+peCreateNewProductionPage2,CompleteLater,Y
+peNavigateToCreateNewProductionPage2,test,Y
+peCreateNewProductionPage2,Save,Y
+peProductionBidPage,test,Y
+peBidSelectionPage,test,Y

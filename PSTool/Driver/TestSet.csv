@@ -1,0 +1,6 @@
+TestCase,YN,Sprint,Maintenance status,Status
+TC00_LoginValidation,Y,Sprint 1,Done,Ready to Execute
+TC01_CreateProjectStatement,N,,,
+TC02_CreatePitchAgreement,N,,,
+PSToolRegressionSuite,N,,,
+PSToolSomkeTestSuite,N,,,
