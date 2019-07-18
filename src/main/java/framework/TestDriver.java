@@ -62,7 +62,7 @@ public class TestDriver {
 		String strTimeStamp = timeStamp.replace(".", "_");
 		String strReportFolder = strFolderPath + File.separator + "Logs" + File.separator + "ExecutionReport_" + strTimeStamp;
 		File objFile = new File(strReportFolder);
-		objFile.mkdir();
+		objFile.mkdirs();
 		String strReportPath = strReportFolder + File.separator + "ExecutionReport.csv";
 		String strSummaryReport=strReportFolder + File.separator + "ExecutionSummary.csv";
 
