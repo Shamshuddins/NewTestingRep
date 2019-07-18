@@ -69,7 +69,7 @@ public class TestDriver {
         String strScreenShotFolder=strReportFolder + File.separator +"ScreenShots";
 
 		File objFile1 = new File(strScreenShotFolder);
-		objFile1.mkdir();
+		objFile1.mkdirs();
 		String strReportTemplate = strFolderPath + File.separator + "Report Template"+ File.separator +"ReportTemplate.csv";
 		String strTestSetPath = strFolderPath + File.separator +"TestSet.csv";
 
